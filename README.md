@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
