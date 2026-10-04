@@ -47,8 +47,17 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0443-string-compression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
