@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
