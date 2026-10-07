@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0443-string-compression) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
