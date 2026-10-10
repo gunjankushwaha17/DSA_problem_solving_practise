@@ -80,8 +80,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0061-rotate-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
