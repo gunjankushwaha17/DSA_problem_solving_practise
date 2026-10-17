@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
