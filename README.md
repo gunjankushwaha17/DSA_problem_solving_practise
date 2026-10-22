@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0061-rotate-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0443-string-compression) |
 ## Binary Search
