@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0387-first-unique-character-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
