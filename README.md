@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0485-max-consecutive-ones) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0443-string-compression) |
 ## Binary Search
