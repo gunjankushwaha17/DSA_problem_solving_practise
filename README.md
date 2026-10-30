@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0485-max-consecutive-ones) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
