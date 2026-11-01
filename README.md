@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -137,9 +139,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
