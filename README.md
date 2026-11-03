@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0287-find-the-duplicate-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
 ## Stack
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0387-first-unique-character-in-a-string) |
 ## Quicksort
 |  |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0145-binary-tree-postorder-traversal) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
