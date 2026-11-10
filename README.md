@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0061-rotate-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0061-rotate-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gunjankushwaha17/DSA_problem_solving_practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
